@@ -6,7 +6,7 @@ from user_interactive import UserInteractive
 # ---------------------------- UI SETUP ------------------------------- #
 # Create a window
 window = tkinter.Tk()
-window.title("Password Manager V.1.1")
+window.title("Password Manager V.1.2.0")
 window.config(padx=15, pady=20)
 
 # Create an image
