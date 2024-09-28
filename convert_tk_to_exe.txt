@@ -1,0 +1,10 @@
+# need pyinstaller to convert
+pip install pyinstaller
+
+# point to project directory
+# For example
+cd root/project/projectname
+# your_script.py must be kept in root/project/projectname
+
+# Convert to exe
+pyinstaller --onefile --windowed your_script.py\
